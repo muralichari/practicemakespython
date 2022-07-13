@@ -10,7 +10,7 @@ def dictdiff(d1, d2):
     return output
 
 
-d1 = {'a':1, 'b':2, 'c':3}
+d1 = {'a':1, 'b':4, 'c':3}
 d2 = {'a':1, 'b':2, 'd':4}
 
 
